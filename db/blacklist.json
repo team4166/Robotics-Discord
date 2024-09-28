@@ -1,0 +1,9 @@
+{
+    "uuid": {
+        "blacklist": [
+            "rr",
+            "echo",
+            "all"
+        ]
+    }
+}
